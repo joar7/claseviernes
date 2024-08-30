@@ -1,2 +1,1 @@
 # claseviernes
-prueba python
